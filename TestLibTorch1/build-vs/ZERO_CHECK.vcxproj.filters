@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\Projects\c++\TestLibTorch\build-vs\CMakeFiles\b037895decc2c633b6741d993f59d203\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{124F7754-0509-3046-A2E2-4B9A0BFF7CB0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
